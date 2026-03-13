@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_app">Travel Companion App</string>
+    <string name="label_category">Category</string>
+    <string name="label_from">From</string>
+    <string name="label_to">To</string>
+    <string name="hint_enter_value">Enter value</string>
+    <string name="button_convert">Convert</string>
+    <string name="result_placeholder">Result will appear here</string>
+</resources>
